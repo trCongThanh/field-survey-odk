@@ -39,3 +39,8 @@ Clone dự án về máy:
 ```bash
 git clone [https://github.com/trCongThanh/field-survey-odk.git](https://github.com/trCongThanh/field-survey-odk.git)
 cd field-survey-odk
+
+### 3. Triển Khai Thực Tế
+
+https://truongcongthanh-odk-collect.netlify.app/
+
