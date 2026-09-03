@@ -6,6 +6,10 @@ Dự án được xây dựng với tư duy **Offline-first**, kết hợp giao 
 
 ---
 
+> 🔗 **Trải nghiệm trực tiếp ứng dụng (Live Demo):** > 👉 [https://truongcongthanh-odk-collect.netlify.app/](https://truongcongthanh-odk-collect.netlify.app/)
+
+---
+
 ## ✨ Tính năng nổi bật
 
 *   **PWA & Cross-platform:** Cài đặt trực tiếp lên Màn hình chính của Android/iOS/Windows mà không cần thông qua App Store/Google Play. Chạy độc lập toàn màn hình.
@@ -40,7 +44,5 @@ Clone dự án về máy:
 git clone [https://github.com/trCongThanh/field-survey-odk.git](https://github.com/trCongThanh/field-survey-odk.git)
 cd field-survey-odk
 
-### 3. Triển Khai Thực Tế
 
-https://truongcongthanh-odk-collect.netlify.app/
 
