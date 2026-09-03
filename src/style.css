@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* --- TÙY CHỈNH SCROLLBAR SIÊU MỎNG (WEBKIT) --- */
+::-webkit-scrollbar {
+  width: 5px;  /* Cuộn dọc */
+  height: 5px; /* Cuộn ngang */
+}
+
+/* Phần nền của thanh cuộn (Track) */
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+/* Cục cuộn (Thumb) */
+::-webkit-scrollbar-thumb {
+  background: rgba(99, 102, 241, 0.4); /* Màu Indigo-500 trong suốt */
+  border-radius: 10px; /* Bo tròn hoàn toàn */
+}
+
+/* Khi di chuột vào cục cuộn */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.8); 
+}
+
+/* Hỗ trợ cho Firefox (Dùng chuẩn mới) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(99, 102, 241, 0.5) transparent;
+}
